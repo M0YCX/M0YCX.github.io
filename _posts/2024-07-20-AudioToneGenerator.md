@@ -1,5 +1,5 @@
 ---
-title: A Simple Audio Tone Generator
+title: A Simple 1.2kHz Audio Tone Generator
 categories: [Projects]
 tags: [Signal-Generator]
 math: true
