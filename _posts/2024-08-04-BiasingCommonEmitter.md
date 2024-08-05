@@ -6,7 +6,8 @@ math: true
 ---
 
 Continuing reading Wes Hayward's Introduction to Radio Frequency Design and had a go at rewriting
-the EMFRD LADPAC 2008 biasnpn08.exe program as a Python Jupyter Notebook:-
+the EMRFD Ladpac-2008 biasnpn08.exe program in Python as an interactive
+Jupyter Notebook:-
 
 see: [Biasing Common Emitter Notebook](https://github.com/M0YCX/ycx_rf_notebooks/blob/master/Amplifiers/biasing/Common%20Emitter%20Biasing.ipynb)
 
