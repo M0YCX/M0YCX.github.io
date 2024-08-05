@@ -16,10 +16,10 @@ timezone: Europe/London
 
 title: M0YCX # the main title
 
-tagline: Amateur Radio Stuff # it will display as the sub-title
+tagline: Learning Amateur Radio Stuff # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Amateur Radio Stuff
+  Learning Amateur Radio Stuff
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +29,7 @@ github:
   username: M0YCX # change to your github username
 
 twitter:
-  username:  # change to your twitter username
+  username: glbevan # change to your twitter username
 
 social:
   # Change to your full name.
@@ -86,7 +86,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
