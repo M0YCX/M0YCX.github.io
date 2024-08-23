@@ -12,3 +12,10 @@ Reading Introduction to Radio Frequency Design by Wes Hayward [W7ZOI], and liter
 $$
 \beta(F) = \frac{\beta_0}{1 + j\beta_0 F/F_T}
 $$
+
+Notes:
+
+* $\beta$ is Complex at RF
+* The estimation: $\beta = F_t/F$ (solid red line above) only begins to be accurate well above $F_B$
+* The phase angle of $\beta$ is $-45^\circ$ at $F_B$
+* The phase angle of $\beta$ is $-90^\circ$ at $F_T$
