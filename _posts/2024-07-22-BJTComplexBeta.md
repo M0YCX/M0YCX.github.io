@@ -16,6 +16,6 @@ $$
 Notes:
 
 * $\beta$ is Complex at RF
-* The estimation: $\beta = F_t/F$ (solid red line above) only begins to be accurate well above $F_B$
+* The estimation: $\beta = F_T/F$ (solid red line above) only begins to be accurate well above $F_B$
 * The phase angle of $\beta$ is $-45^\circ$ at $F_B$
 * The phase angle of $\beta$ is $-90^\circ$ at $F_T$
