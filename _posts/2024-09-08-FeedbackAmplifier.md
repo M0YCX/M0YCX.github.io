@@ -6,7 +6,7 @@ math: true
 ---
 
 I've written a Jupyter Notebook in Python that mirrors the functionality of Wes Hayward's Feedback Amplifier calculator
-(`fba08.exe` that is provided with his book _Experimental Methods in RF Design_) - following the math in his earlier book _Introduction to Radio Frequency Design_ (- a truely excellent book!).
+`fba08.exe` that is provided with his book _Experimental Methods in RF Design_ - and following the math in his earlier book _Introduction to Radio Frequency Design_ (- both truly excellent books!).
 
 See: [Feedback Amplifier](https://github.com/M0YCX/ycx_rf_notebooks/blob/master/Amplifiers/feedback/Feedback%20Amplifier.ipynb)
 
