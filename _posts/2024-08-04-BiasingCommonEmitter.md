@@ -1,7 +1,7 @@
 ---
 title: Biasing a Common Emitter Transistor Amplifier
 categories: [Theory]
-tags: [BJT, Biasing]
+tags: [BJT, Biasing, Amplifier]
 math: true
 ---
 
