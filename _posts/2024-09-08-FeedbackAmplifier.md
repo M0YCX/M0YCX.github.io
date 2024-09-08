@@ -21,3 +21,14 @@ Here is a screenshot of it running:
 and a screenshot from Wes's fba08.exe with the same parameters:
 
 ![Screenshot EMRFD fba08](/assets/images/2024-09/FBA -- Feedback Amplifier Analysis _001.jpg)
+
+This was an interesting learning journey, focusing on Z, Y and Cascading ABCD Matrix Parameters and associated math.
+These were the matrix representations of:
+
+* The base spreading resistance,
+* The degenerating complex impedance,
+* The Hybrid-Pi model of the transistor (and complex $\beta$),
+* The complex impedance of the feedback network,
+* The output impedance matching transformer
+
+and how the source and load impedances affect the output and input impedances of the amplifier.
