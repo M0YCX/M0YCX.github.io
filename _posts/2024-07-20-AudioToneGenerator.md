@@ -3,6 +3,7 @@ title: A Simple 1.2kHz Audio Tone Generator
 categories: [Projects]
 tags: [Signal-Generator]
 math: true
+image: /assets/images/2024-07/20240712_152615.jpg
 ---
 
 From the "bible" Experimental Methods in RF Design [W7ZOI, KK7B, W7PUA].

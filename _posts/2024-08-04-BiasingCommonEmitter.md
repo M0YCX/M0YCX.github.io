@@ -3,6 +3,7 @@ title: Biasing a Common Emitter Transistor Amplifier
 categories: [Theory]
 tags: [BJT, Biasing, Amplifier]
 math: true
+image: /assets/images/2024-08/BiasingCommonEmitter.jpg
 ---
 
 Continuing reading Wes Hayward's Introduction to Radio Frequency Design and had a go at rewriting

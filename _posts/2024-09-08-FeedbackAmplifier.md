@@ -3,6 +3,7 @@ title: RF Feedback Amplifier
 categories: [Theory]
 tags: [BJT, Feedback, Amplifier]
 math: true
+image: /assets/images/2024-09/fba_notebook_screenshot.jpg
 ---
 
 I've written a Jupyter Notebook in Python that mirrors the functionality of Wes Hayward's Feedback Amplifier calculator
