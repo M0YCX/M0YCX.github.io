@@ -4,6 +4,7 @@ categories: [Projects]
 tags: [Signal-Generator]
 math: true
 image: /assets/images/2024-07/20240712_152615.jpg
+excerpt: "A Simple 1.2kHz Audio Tone Generator, distortion: -40dB, pk-pk: 140mV, with spice modelling and ugly construction."
 ---
 
 From the "bible" Experimental Methods in RF Design [W7ZOI, KK7B, W7PUA].
