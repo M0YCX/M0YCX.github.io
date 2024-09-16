@@ -11,7 +11,7 @@ Here I am reproducing the transistor hybrid-pi model in QUCS-S with ngspice.  I 
 
 This shows the basic hybrid-pi model with the collector-base capacitance disabled:-
 ![The Hybrid-Pi model without collector-base capacitance](/assets/images/2024-09/ngspice-hybrid-pi-noccb.png)
-note the Y12 (reverse transfer admittance) parameters are all zero.  The igain plot pretty much matches the expected "ideal" plot of hybrid-pi $|\beta|$ I show in (Complex Beta of a Bipolar Transistor)[{% link _posts/2024-07-22-BJTComplexBeta.md %}].
+note the Y12 (reverse transfer admittance) parameters are all zero.  The igain plot pretty much matches the expected "ideal" plot of hybrid-pi $|\beta|$ I show in [Complex Beta of a Bipolar Transistor]({% link _posts/2024-07-22-BJTComplexBeta.md %}).
 
 Here we enable the collector-base (_Ccb_) capacitance:-
 ![The Hybrid-Pi model with collector-base capacitance](/assets/images/2024-09/ngspice-hybrid-pi-ccb.png)
