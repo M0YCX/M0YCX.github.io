@@ -16,6 +16,7 @@ this is pretty close to the prediction made here for alpha $\alpha$:-
 ![Plot of the Hybrid-Pi common-base alpha](/assets/images/2024-09/hybrid-pi-cb-alpha-plot.png)
 
 for a common-base amplifier:-
+
 $$
 \alpha = \frac{\beta}{(\beta + 1)}
 $$
