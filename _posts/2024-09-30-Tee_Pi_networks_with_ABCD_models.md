@@ -15,3 +15,4 @@ This example shows a 3rd order Chebyshev filter with 80MHz cutoff, $Z_0=75\Omega
 
 ![Screenshot Feedback Amplifier Notebook with plots](/assets/images/2024-09/two-port-tee-pi-model.jpg)
 
+UPDATE: Added a spice analysis of the low pass filter to verify the results.
