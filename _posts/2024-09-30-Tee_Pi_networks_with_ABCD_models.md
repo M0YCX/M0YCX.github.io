@@ -13,6 +13,6 @@ In this notebook I have used ABCD Networks to describe individual components in 
 
 This example shows a 3rd order Chebyshev filter with 80MHz cutoff, $Z_0=75\Omega$ - calculated for F=70MHz:-
 
-![Screenshot Feedback Amplifier Notebook with plots](/assets/images/2024-09/two-port-tee-pi-model.jpg)
+![Screenshot of the Chebyshev 3rd order filter constructed from ABCD matrices](/assets/images/2024-09/two-port-tee-pi-model.jpg "Screenshot of the Chebyshev 3rd order filter constructed from ABCD matrices")
 
 UPDATE: Added a spice analysis of the low pass filter to verify the results.
