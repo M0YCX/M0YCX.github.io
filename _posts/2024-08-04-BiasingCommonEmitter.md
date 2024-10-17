@@ -12,6 +12,6 @@ Jupyter Notebook:-
 
 see: [Biasing Common Emitter Notebook](https://github.com/M0YCX/ycx_rf_notebooks/blob/master/Amplifiers/biasing/Common%20Emitter%20Biasing.ipynb)
 
-![Screenshot Biasing Common Emitter](/assets/images/2024-08/BiasingCommonEmitter.jpg)
+![Screenshot Biasing Common Emitter](/assets/images/2024-08/BiasingCommonEmitter.jpg "Screenshot of the Biasing Common Emitter Jupyter Notebook")
 
 The slider controls allow you to select resistor values from the E24 series.

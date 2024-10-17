@@ -18,11 +18,11 @@ The code is a work-in-progress and needs some cleanup, but the resulting calcula
 
 Here is a screenshot of it running:
 
-![Screenshot Feedback Amplifier Notebook](/assets/images/2024-09/fba_notebook_screenshot.jpg)
+![Screenshot Feedback Amplifier Notebook](/assets/images/2024-09/fba_notebook_screenshot.jpg "Screenshot of the RF Feedback Amplifier Jupyter Notebook")
 
 and a screenshot from Wes's fba08.exe with the same parameters:
 
-![Screenshot EMRFD fba08](/assets/images/2024-09/FBA -- Feedback Amplifier Analysis _001.jpg)
+![Screenshot EMRFD fba08](/assets/images/2024-09/FBA%20--%20Feedback%20Amplifier%20Analysis%20_001.jpg "Screenshot EMRFD fba08")
 
 This was an interesting learning journey, focusing on Y and Cascading ABCD Matrix Parameters and associated math.
 These were the matrix representations of the:
