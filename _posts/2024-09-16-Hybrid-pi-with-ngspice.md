@@ -13,7 +13,8 @@ This shows the basic hybrid-pi model with the collector-base capacitance disable
 
 ![The Hybrid-Pi model without collector-base capacitance](/assets/images/2024-09/ngspice-hybrid-pi-noccb.png "The common emitter transistor amplifier Hybrid-Pi model without collector-base capacitance (aka the Miller-Effect)")
 
-note the Y12 (reverse transfer admittance) parameters are all zero.  The igain plot pretty much matches the expected "ideal" plot of hybrid-pi $|\beta|$ I show in [Complex Beta of a Bipolar Transistor]({% link _posts/2024-07-22-BJTComplexBeta.md %}).
+Note the Y12 (reverse transfer admittance) parameters are all zero.
+The igain plot pretty much matches the expected "ideal" plot of hybrid-pi beta I show in [Complex Beta of a Bipolar Transistor]({% link _posts/2024-07-22-BJTComplexBeta.md %}).
 
 Here we enable the collector-base (_Ccb_) capacitance:-
 
