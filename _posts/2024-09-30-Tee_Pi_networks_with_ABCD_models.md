@@ -15,4 +15,6 @@ This example shows a 3rd order Chebyshev filter with 80MHz cutoff, $Z_0=75\Omega
 
 ![Screenshot of the Chebyshev 3rd order filter constructed from ABCD matrices](/assets/images/2024-09/two-port-tee-pi-model.jpg "Screenshot of the Chebyshev 3rd order filter constructed from ABCD matrices")
 
-UPDATE: Added a spice analysis of the low pass filter to verify the results.
+UPDATES:
+* Added a spice analysis of the low pass filter to verify the results.
+* Added S-Parameter node results and diagrams
