@@ -17,11 +17,11 @@ pin: true
 
 * https://ocw.mit.edu/search/?d=Mathematics&d=Electrical%20Engineering%20and%20Computer%20Science
 
-#### Current:-
+Currently watching:-
 
 * https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
 
-#### TODO:-
+On my todo list:-
 
 * https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/
 * https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
