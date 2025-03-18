@@ -1,5 +1,5 @@
 ---
-title: Complex Beta of a Bipolar Transistor
+title: Complex Beta of a Bipolar Transistor at RF - The Hybrid-pi model
 categories: [Theory]
 tags: [BJT, Beta]
 math: true
