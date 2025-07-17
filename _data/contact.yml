@@ -15,6 +15,10 @@
   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
+- type: bluesky
+  icon: 'fa-brands fa-bluesky'
+  url: 'https://bsky.app/profile/m0ycx.bsky.social'
+
 - type: mastodon
   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
   url:  'https://mastodon.radio/@m0ycx'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
