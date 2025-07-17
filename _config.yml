@@ -14,12 +14,12 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: M0YCX # the main title
+title: M0YCX Blog - Amateur Radio, Electronics, Math and Code # the main title
 
-tagline: Learning Amateur Radio Stuff # it will display as the sub-title
+tagline: Learning Amateur Radio, Electronics, Math and Code # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Learning Amateur Radio and RF Electronics Stuff
+  Learning Amateur Radio and RF Electronics Stuff...
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
