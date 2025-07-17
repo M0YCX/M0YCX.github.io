@@ -23,7 +23,7 @@ distortion may be being added to the signal.
 
 ## Results
 
-![Second harmonic](/assets/images/2024-07/Osc%20screenshot.png "Harmonics of the low distortion audio 1.2KHz tone generator")
+![Second harmonic](/assets/images/2024-07/Osc%20screenshot.png "Oscilloscope showing harmonics of the 1.2KHz tone generator")
 
 $$\Delta{}Y$$ (between the fundamental and the 2nd harmonic) = -40dB, pk-pk was 140mV.
 
