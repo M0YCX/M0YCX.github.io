@@ -14,7 +14,7 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: M0YCX Blog - Amateur Radio, Electronics, Math and Code # the main title
+title: M0YCX Blog # the main title - this is added to page/post titles and can affect SEO, keep short...
 
 tagline: Learning Amateur Radio, Electronics, Math and Code # it will display as the sub-title
 
